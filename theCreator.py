@@ -1,6 +1,9 @@
-import planetobject
+import planetobject as po
 
-ball = planetobject.Earth_Object(5)
-ball.gravitationalEnergy(100)
+ball = po.Earth_Object(mass=5)
 
-print(str(ball.gravEnergy) + 'J')
+ball.gravitationalEnergy(height=100)
+ball.kineticEnergy(vel=15)
+
+print(str(ball.gravitationalE) + 'J')
+print(str(ball.kineticE) + 'J')

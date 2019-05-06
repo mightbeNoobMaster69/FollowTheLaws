@@ -1,5 +1,7 @@
 class LawsOfPhysics:
     def __init__(self):
         pass
-    def gravitationalEnergyEquation(self, mass, gravity, height):
-        self.gravEnergy = mass * gravity * height
+    def gravitationalEnergyEq(self, mass, gravity, height):
+        self.gravitationalE = mass * gravity * height
+    def kineticEnergyEq(self, mass, vel):
+        self.kineticE = ( mass * (vel**2) ) / 2

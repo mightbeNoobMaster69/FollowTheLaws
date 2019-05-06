@@ -1,2 +1,2 @@
 # Follow The Laws
-Objects are created and they must follow the laws of physics, but each one is created in a different planet. For example, a ball that in Earth, and a ball in Mars, will suffer from diferrent gravity values, but the equation used is the same.
+Objects are created and they must follow the laws of physics, but each one is created in a different planet. For example, if there is a ball in Earth, and a ball in Mars, both will suffer from diferrent gravity values, but the equation used is the same.
